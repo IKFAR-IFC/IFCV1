@@ -13,7 +13,7 @@ $ pip install bs4
 $ pip install rich
 $ git clone https://github.com/IKFAR-IFC/IFCV1
 $ cd IFCV1
-$ python Farz.py
+$ python run.py
 ```
 ### Hasil
  <img src="https://github.com/IKFAR-IFC/IFCV1/blob/main/IMG_20220916_235816.jpg" width="440" title="Menu" alt="Menu">
@@ -23,7 +23,7 @@ $ python Farz.py
 ``` bash
 $ cd IFCV1
 $ git pull
-$ python Farz.py
+$ python run.py
 ```
 #### Saran penggunaan
 ``` python
